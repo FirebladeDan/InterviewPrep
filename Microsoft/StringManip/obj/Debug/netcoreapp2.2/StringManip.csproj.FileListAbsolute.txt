@@ -1,0 +1,11 @@
+C:\Applications\InterviewPrep\Microsoft\StringManip\bin\Debug\netcoreapp2.2\StringManip.deps.json
+C:\Applications\InterviewPrep\Microsoft\StringManip\bin\Debug\netcoreapp2.2\StringManip.runtimeconfig.json
+C:\Applications\InterviewPrep\Microsoft\StringManip\bin\Debug\netcoreapp2.2\StringManip.runtimeconfig.dev.json
+C:\Applications\InterviewPrep\Microsoft\StringManip\bin\Debug\netcoreapp2.2\StringManip.dll
+C:\Applications\InterviewPrep\Microsoft\StringManip\bin\Debug\netcoreapp2.2\StringManip.pdb
+C:\Applications\InterviewPrep\Microsoft\StringManip\obj\Debug\netcoreapp2.2\StringManip.csprojAssemblyReference.cache
+C:\Applications\InterviewPrep\Microsoft\StringManip\obj\Debug\netcoreapp2.2\StringManip.csproj.CoreCompileInputs.cache
+C:\Applications\InterviewPrep\Microsoft\StringManip\obj\Debug\netcoreapp2.2\StringManip.AssemblyInfoInputs.cache
+C:\Applications\InterviewPrep\Microsoft\StringManip\obj\Debug\netcoreapp2.2\StringManip.AssemblyInfo.cs
+C:\Applications\InterviewPrep\Microsoft\StringManip\obj\Debug\netcoreapp2.2\StringManip.dll
+C:\Applications\InterviewPrep\Microsoft\StringManip\obj\Debug\netcoreapp2.2\StringManip.pdb
